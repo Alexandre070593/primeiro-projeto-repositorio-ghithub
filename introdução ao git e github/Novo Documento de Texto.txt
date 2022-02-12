@@ -1,0 +1,4 @@
+Comandos Git.
+LS   listar
+GIT STATUS mostra os documentos que tem na pasta.
+MKDIR  criar uma pasta
